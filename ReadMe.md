@@ -1,4 +1,5 @@
 # ⚡ Smart password_generator & AI Chatbot  
+check project: https://ashirpass.streamlit.app/
 
 🚀 **Smart password_generator & AI Chatbo** is an intuitive and efficient web application built with **Streamlit** and powered by **Google Gemini AI**.  
 It provides two core functionalities:  
